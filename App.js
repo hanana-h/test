@@ -17,6 +17,7 @@ function App() {
     };
     fetchEpisodes()
     
+    
       },[])
       console.log(Episodes)
 
